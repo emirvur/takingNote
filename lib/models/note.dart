@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'category.dart';
 
 List<Note> noteFromJson(String str) =>
     List<Note>.from(json.decode(str).map((x) => Note.fromJson(x)));
