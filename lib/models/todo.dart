@@ -4,7 +4,6 @@
 
 import 'dart:convert';
 
-import 'package:tea/models/category.dart';
 
 List<Todo> todoFromJson(String str) =>
     List<Todo>.from(json.decode(str).map((x) => Todo.fromJson(x)));
