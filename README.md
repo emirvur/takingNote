@@ -8,4 +8,4 @@ video
 
 ## Ekran Görüntüleri
 
-<img src="screenshots/notelist.jpeg"  width="400" height="600">
+<img src="screenshots/notelist.jpeg"  width="400" height="500">
