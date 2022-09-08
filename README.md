@@ -4,9 +4,10 @@ Bu uygulama Flutter Frameworku ile yapılmıştır.Uygulamada MVVM yapısı kull
 
 # Özellikler
 
+- [x] Katmanlı Mimari
 - [x] Merkezi Routing
 - [x] Provider
-- [x] erkezi Tema Yönetimi
+- [x] Merkezi Tema Yönetimi
 
 
 
