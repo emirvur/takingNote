@@ -8,6 +8,7 @@ Bu uygulama Flutter Frameworku ile yapılmıştır.Uygulamada MVVM yapısı kull
 - [x] Merkezi Routing
 - [x] Provider
 - [x] Merkezi Tema Yönetimi
+- [x] DockerFile Dosyası
 
 
 
